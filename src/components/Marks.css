@@ -1,0 +1,11 @@
+div.marks {
+  background-image: url("../assets/class.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+}
+p {
+  font-size: 0.8rem;
+}
